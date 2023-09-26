@@ -6,7 +6,7 @@ const Home = () => {
       <div>
         <img
           className="home-img"
-          src="./src/assets/beautiful-smiling-young-blonde-woman-pointing-sunglasses-holding-shopping-bags-credit-card-pink-wall.jpg"
+          src="./assets/beautiful-smiling-young-blonde-woman-pointing-sunglasses-holding-shopping-bags-credit-card-pink-wall.jpg"
           alt="woman shopping"
         />
       </div>

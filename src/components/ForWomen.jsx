@@ -11,7 +11,7 @@ const ForWomen = () => {
             Women Dresses
           </NavLink>
           <img
-            src="./src/assets/young-woman-beautiful-red-dress.jpg"
+            src="./assets/young-woman-beautiful-red-dress.jpg"
             alt=""
             className="dress"
           />
@@ -22,7 +22,7 @@ const ForWomen = () => {
           </NavLink>
           <img
             className="shoe"
-            src="./src/assets/composition-beautiful-mother-s-day-elements.jpg"
+            src="./assets/composition-beautiful-mother-s-day-elements.jpg"
             alt=""
           />
         </li>
