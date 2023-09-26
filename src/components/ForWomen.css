@@ -1,0 +1,34 @@
+li {
+  text-align: left;
+}
+
+.for-women {
+  margin-top: 50px;
+  margin-right: 170px;
+}
+
+.dress,
+.shoe {
+  max-width: 200px;
+  max-height: 300px;
+}
+
+.dresses {
+  position: relative;
+  bottom: 265px;
+  left: 180px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.shoes {
+  position: relative;
+  bottom: 265px;
+  left: 165px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
