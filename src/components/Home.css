@@ -3,18 +3,24 @@
   margin-bottom: 40px;
   margin-top: 20px;
   opacity: 0.65;
+  z-index: 1;
 }
 
 .home-p {
-  position: relative;
+  /* position: relative;
   bottom: 695px;
-  left: 750px;
+  left: 750px; */
   color: #fff;
   font-size: 20px;
   font-weight: 400;
   max-width: 500px;
   text-align: center;
+  z-index: 2;
+  position: absolute;
+  top: 100px;
+  right: 180px;
 }
 
 .home-container {
+  position: relative;
 }
