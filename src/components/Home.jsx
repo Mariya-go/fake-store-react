@@ -2,7 +2,7 @@ import "./Home.css";
 
 const Home = () => {
   return (
-    <div>
+    <div className="home-container">
       <div>
         <img
           className="home-img"
@@ -10,7 +10,7 @@ const Home = () => {
           alt="woman shopping"
         />
       </div>
-      <p>
+      <p className="home-p">
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium
         esse illum ad ullam perspiciatis facilis ducimus repudiandae! Odit
         minima repellendus tempora et expedita velit, architecto fugit aut
